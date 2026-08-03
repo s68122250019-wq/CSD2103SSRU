@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class Program034 {
+public class Program019 {
 
     // =========================================================
     // ข้อ 1: การกลับลำดับ String (Reverse a String)
